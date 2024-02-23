@@ -1,0 +1,11 @@
+
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 1', 'Descrição do Produto 1', 19.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 2', 'Descrição do Produto 2', 29.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 3', 'Descrição do Produto 3', 39.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 4', 'Descrição do Produto 4', 49.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 5', 'Descrição do Produto 5', 59.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 6', 'Descrição do Produto 6', 69.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 7', 'Descrição do Produto 7', 79.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 8', 'Descrição do Produto 8', 89.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 9', 'Descrição do Produto 9', 99.99);
+--INSERT INTO tb_products (name, description, price) VALUES ('Produto 10', 'Descrição do Produto 10', 109.99);
